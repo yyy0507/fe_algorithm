@@ -1,0 +1,18 @@
+@import '~antd/dist/antd.css';
+
+.wrapper {
+    //width: 1200px;
+    //margin: 0 auto;
+}
+
+.taskWrapper {
+    background: #fff;
+    padding: 24px;
+}
+
+li{
+    color: #fff;
+    float: left;
+    list-style: none;
+    margin-right: 10px;
+}
