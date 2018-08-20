@@ -16,8 +16,8 @@ export default class Navigation extends Component {
             <Layout>
                 <Header>
                     <ul>
-                        <li><Link to="/">Home</Link></li>
-                        <li><Link to="/task">Task</Link></li>
+                        <li><Link to="/">首页</Link></li>
+                        <li><Link to="/project">工程管理</Link></li>
                     </ul>
                 </Header>
             </Layout>
